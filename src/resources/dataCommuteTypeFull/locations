@@ -1,0 +1,150 @@
+601,18.18027,-66.75266,Adjuntas,PR,Puerto Rico,TRUE,,16773,100.5,72001,Adjuntas,,Adjuntas|Utuado,72001|72141,FALSE,FALSE,America/Puerto_Rico
+602,18.36075,-67.17541,Aguada,PR,Puerto Rico,TRUE,,37083,472.1,72003,Aguada,,Aguada,72003,FALSE,FALSE,America/Puerto_Rico
+603,18.45744,-67.12225,Aguadilla,PR,Puerto Rico,TRUE,,45652,513.2,72005,Aguadilla,,Aguadilla|Moca,72005|72099,FALSE,FALSE,America/Puerto_Rico
+606,18.16585,-66.93716,Maricao,PR,Puerto Rico,TRUE,,6231,54.3,72093,Maricao,,Maricao|Yauco|Sabana Grande,72093|72153|72121,FALSE,FALSE,America/Puerto_Rico
+610,18.2911,-67.12243,Anasco,PR,Puerto Rico,TRUE,,26502,275.7,72011,Añasco,,Añasco|Moca|Las Marías|Aguada,72011|72099|72083|72003,FALSE,FALSE,America/Puerto_Rico
+611,18.27698,-66.80688,Angeles,PR,Puerto Rico,TRUE,,,,72141,Utuado,,Utuado,72141,FALSE,FALSE,America/Puerto_Rico
+612,18.41283,-66.7051,Arecibo,PR,Puerto Rico,TRUE,,58771,298,72013,Arecibo,,Arecibo|Hatillo|Barceloneta,72013|72065|72017,FALSE,FALSE,America/Puerto_Rico
+616,18.41878,-66.6679,Bajadero,PR,Puerto Rico,TRUE,,9688,343.7,72013,Arecibo,,Arecibo,72013,FALSE,FALSE,America/Puerto_Rico
+617,18.44598,-66.56006,Barceloneta,PR,Puerto Rico,TRUE,,23771,500,72017,Barceloneta,,Barceloneta|Florida,72017|72054,FALSE,FALSE,America/Puerto_Rico
+622,17.98892,-67.1566,Boqueron,PR,Puerto Rico,TRUE,,6505,80.6,72023,Cabo Rojo,,Cabo Rojo,72023,FALSE,FALSE,America/Puerto_Rico
+623,18.08429,-67.15336,Cabo Rojo,PR,Puerto Rico,TRUE,,41472,408.5,72023,Cabo Rojo,,Cabo Rojo,72023,FALSE,FALSE,America/Puerto_Rico
+624,18.05905,-66.71932,Penuelas,PR,Puerto Rico,TRUE,,21031,172.9,72111,Peñuelas,,Peñuelas|Ponce,72111|72113,FALSE,FALSE,America/Puerto_Rico
+627,18.41905,-66.86037,Camuy,PR,Puerto Rico,TRUE,,31066,258.7,72027,Camuy,,Camuy,72027,FALSE,FALSE,America/Puerto_Rico
+631,18.1852,-66.83169,Castaner,PR,Puerto Rico,TRUE,,1481,182.9,72081,Lares,,Lares|Adjuntas,72081|72001,FALSE,FALSE,America/Puerto_Rico
+636,18.16354,-67.08014,Rosario,PR,Puerto Rico,TRUE,,,,72125,San Germán,,San Germán,72125,FALSE,FALSE,America/Puerto_Rico
+637,18.081,-66.94659,Sabana Grande,PR,Puerto Rico,TRUE,,21957,241,72121,Sabana Grande,,Sabana Grande|San Germán|Lajas,72121|72125|72079,FALSE,FALSE,America/Puerto_Rico
+638,18.28462,-66.5137,Ciales,PR,Puerto Rico,TRUE,,16018,86.6,72039,Ciales,,Ciales|Orocovis|Manatí,72039|72107|72091,FALSE,FALSE,America/Puerto_Rico
+641,18.26742,-66.70212,Utuado,PR,Puerto Rico,TRUE,,26383,121.1,72141,Utuado,,Utuado,72141,FALSE,FALSE,America/Puerto_Rico
+646,18.43251,-66.28429,Dorado,PR,Puerto Rico,TRUE,,36538,670.1,72051,Dorado,,Dorado|Vega Alta,72051|72143,FALSE,FALSE,America/Puerto_Rico
+647,17.96667,-66.94266,Ensenada,PR,Puerto Rico,TRUE,,5708,139.4,72055,Guánica,,Guánica|Lajas,72055|72079,FALSE,FALSE,America/Puerto_Rico
+650,18.34487,-66.58347,Florida,PR,Puerto Rico,TRUE,,13869,168.8,72054,Florida,,Florida|Utuado|Manatí|Ciales|Arecibo|Barceloneta,72054|72141|72091|72039|72013|72017,FALSE,FALSE,America/Puerto_Rico
+652,18.45614,-66.60194,Garrochales,PR,Puerto Rico,TRUE,,3624,217.2,72013,Arecibo,,Arecibo,72013,FALSE,FALSE,America/Puerto_Rico
+653,17.99413,-66.90266,Guanica,PR,Puerto Rico,TRUE,,10117,176.9,72055,Guánica,,Guánica|Sabana Grande,72055|72121,FALSE,FALSE,America/Puerto_Rico
+656,18.04186,-66.79123,Guayanilla,PR,Puerto Rico,TRUE,,17984,164.8,72059,Guayanilla,,Guayanilla|Yauco|Peñuelas,72059|72153|72111,FALSE,FALSE,America/Puerto_Rico
+659,18.41036,-66.79691,Hatillo,PR,Puerto Rico,TRUE,,39561,372,72065,Hatillo,,Hatillo,72065,FALSE,FALSE,America/Puerto_Rico
+660,18.13412,-67.11399,Hormigueros,PR,Puerto Rico,TRUE,,15731,536.6,72067,Hormigueros,,Hormigueros,72067,FALSE,FALSE,America/Puerto_Rico
+662,18.46622,-67.01508,Isabela,PR,Puerto Rico,TRUE,,39017,365,72071,Isabela,,Isabela,72071,FALSE,FALSE,America/Puerto_Rico
+664,18.21064,-66.59066,Jayuya,PR,Puerto Rico,TRUE,,14405,118.6,72073,Jayuya,,Jayuya|Utuado,72073|72141,FALSE,FALSE,America/Puerto_Rico
+667,18.01246,-67.0417,Lajas,PR,Puerto Rico,TRUE,,22721,145.7,72079,Lajas,,Lajas|San Germán,72079|72125,FALSE,FALSE,America/Puerto_Rico
+669,18.27019,-66.86727,Lares,PR,Puerto Rico,TRUE,,24022,144.7,72081,Lares,,Lares|Utuado|Las Marías|San Sebastián,72081|72141|72083|72131,FALSE,FALSE,America/Puerto_Rico
+670,18.23782,-66.98852,Las Marias,PR,Puerto Rico,TRUE,,8051,66.8,72083,Las Marías,,Las Marías|Añasco|Mayagüez|Maricao,72083|72011|72097|72093,FALSE,FALSE,America/Puerto_Rico
+674,18.42229,-66.4891,Manati,PR,Puerto Rico,TRUE,,38218,339.6,72091,Manatí,,Manatí|Vega Baja,72091|72145,FALSE,FALSE,America/Puerto_Rico
+676,18.37897,-67.08098,Moca,PR,Puerto Rico,TRUE,,35621,281.5,72099,Moca,,Moca|Aguada,72099|72003,FALSE,FALSE,America/Puerto_Rico
+677,18.33535,-67.23155,Rincon,PR,Puerto Rico,TRUE,,13949,369.7,72117,Rincón,,Rincón|Añasco|Aguada,72117|72011|72003,FALSE,FALSE,America/Puerto_Rico
+678,18.42949,-66.93016,Quebradillas,PR,Puerto Rico,TRUE,,24997,331.2,72115,Quebradillas,,Quebradillas|Isabela|San Sebastián,72115|72071|72131,FALSE,FALSE,America/Puerto_Rico
+680,18.16307,-67.36122,Mayaguez,PR,Puerto Rico,TRUE,,44904,269.6,72097,Mayagüez,,Mayagüez|San Germán|Añasco,72097|72125|72011,FALSE,FALSE,America/Puerto_Rico
+682,18.22415,-67.15309,Mayaguez,PR,Puerto Rico,TRUE,,30212,715.2,72097,Mayagüez,,Mayagüez|Hormigueros,72097|72067,FALSE,FALSE,America/Puerto_Rico
+683,18.10926,-67.03803,San German,PR,Puerto Rico,TRUE,,28710,224.9,72125,San Germán,,San Germán,72125,FALSE,FALSE,America/Puerto_Rico
+685,18.33656,-66.97518,San Sebastian,PR,Puerto Rico,TRUE,,36546,179.3,72131,San Sebastián,,San Sebastián|Isabela|Moca,72131|72071|72099,FALSE,FALSE,America/Puerto_Rico
+687,18.31707,-66.42029,Morovis,PR,Puerto Rico,TRUE,,30652,304.5,72101,Morovis,,Morovis,72101,FALSE,FALSE,America/Puerto_Rico
+688,18.3807,-66.62496,Sabana Hoyos,PR,Puerto Rico,TRUE,,11355,134.9,72013,Arecibo,,Arecibo,72013,FALSE,FALSE,America/Puerto_Rico
+690,18.49363,-67.09734,San Antonio,PR,Puerto Rico,TRUE,,5900,1007.5,72005,Aguadilla,,Aguadilla,72005,FALSE,FALSE,America/Puerto_Rico
+692,18.40905,-66.33768,Vega Alta,PR,Puerto Rico,TRUE,,34857,507.3,72143,Vega Alta,,Vega Alta|Vega Baja,72143|72145,FALSE,FALSE,America/Puerto_Rico
+693,18.42633,-66.39811,Vega Baja,PR,Puerto Rico,TRUE,,52220,454,72145,Vega Baja,,Vega Baja|Vega Alta|Manatí,72145|72143|72091,FALSE,FALSE,America/Puerto_Rico
+694,18.48327,-66.39269,Vega Baja,PR,Puerto Rico,TRUE,,32,15.5,72145,Vega Baja,,Vega Baja,72145,FALSE,FALSE,America/Puerto_Rico
+698,18.07274,-66.85519,Yauco,PR,Puerto Rico,TRUE,,34449,212.3,72153,Yauco,,Yauco|Guayanilla,72153|72059,FALSE,FALSE,America/Puerto_Rico
+703,18.24739,-66.13143,Aguas Buenas,PR,Puerto Rico,TRUE,,25619,318.9,72007,Aguas Buenas,,Aguas Buenas|Cidra|Comerío,72007|72041|72045,FALSE,FALSE,America/Puerto_Rico
+704,17.97442,-66.22888,Aguirre,PR,Puerto Rico,TRUE,,7641,327.9,72123,Salinas,,Salinas|Guayama,72123|72057,FALSE,FALSE,America/Puerto_Rico
+705,18.1294,-66.26653,Aibonito,PR,Puerto Rico,TRUE,,22289,283,72009,Aibonito,,Aibonito|Coamo,72009|72043,FALSE,FALSE,America/Puerto_Rico
+707,18.01752,-65.92127,Maunabo,PR,Puerto Rico,TRUE,,10514,194,72095,Maunabo,,Maunabo,72095,FALSE,FALSE,America/Puerto_Rico
+714,17.9981,-66.05635,Arroyo,PR,Puerto Rico,TRUE,,17413,448.1,72015,Arroyo,,Arroyo,72015,FALSE,FALSE,America/Puerto_Rico
+715,17.99738,-66.56104,Mercedita,PR,Puerto Rico,TRUE,,2846,86.5,72113,Ponce,,Ponce|Juana Díaz,72113|72075,FALSE,FALSE,America/Puerto_Rico
+716,17.99942,-66.59868,Ponce,PR,Puerto Rico,TRUE,,26433,1177.4,72113,Ponce,,Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+717,18.00272,-66.61146,Ponce,PR,Puerto Rico,TRUE,,15115,2459.5,72113,Ponce,,Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+718,18.23145,-65.76067,Naguabo,PR,Puerto Rico,TRUE,,25543,208.9,72103,Naguabo,,Naguabo|Ceiba,72103|72037,FALSE,FALSE,America/Puerto_Rico
+719,18.28879,-66.25316,Naranjito,PR,Puerto Rico,TRUE,,28048,383.9,72105,Naranjito,,Naranjito|Corozal|Comerío|Toa Alta,72105|72047|72045|72135,FALSE,FALSE,America/Puerto_Rico
+720,18.21559,-66.42421,Orocovis,PR,Puerto Rico,TRUE,,20387,140.2,72107,Orocovis,,Orocovis|Coamo,72107|72043,FALSE,FALSE,America/Puerto_Rico
+723,18.03139,-66.01122,Patillas,PR,Puerto Rico,TRUE,,16645,139.7,72109,Patillas,,Patillas|Maunabo,72109|72095,FALSE,FALSE,America/Puerto_Rico
+725,18.22052,-66.03962,Caguas,PR,Puerto Rico,TRUE,,79395,741.1,72025,Caguas,,Caguas|Guaynabo|San Lorenzo|San Juan|Trujillo Alto|Aguas Buenas,72025|72061|72129|72127|72139|72007,FALSE,FALSE,America/Puerto_Rico
+727,18.21142,-66.07374,Caguas,PR,Puerto Rico,TRUE,,51772,885.9,72025,Caguas,,Caguas,72025,FALSE,FALSE,America/Puerto_Rico
+728,18.00697,-66.65995,Ponce,PR,Puerto Rico,TRUE,,39204,983.1,72113,Ponce,,Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+729,18.33524,-65.88677,Canovanas,PR,Puerto Rico,TRUE,,50721,547.7,72029,Canóvanas,,Canóvanas|Loíza,72029|72087,FALSE,FALSE,America/Puerto_Rico
+730,18.03256,-66.61384,Ponce,PR,Puerto Rico,TRUE,,29075,1691.3,72113,Ponce,,Ponce,72113,FALSE,FALSE,America/Puerto_Rico
+731,18.09914,-66.63279,Ponce,PR,Puerto Rico,TRUE,,12108,95.5,72113,Ponce,,Ponce|Adjuntas,72113|72001,FALSE,FALSE,America/Puerto_Rico
+735,18.2525,-65.67534,Ceiba,PR,Puerto Rico,TRUE,,11593,163.5,72037,Ceiba,,Ceiba|Naguabo,72037|72103,FALSE,FALSE,America/Puerto_Rico
+736,18.10736,-66.14994,Cayey,PR,Puerto Rico,TRUE,,45773,321.9,72035,Cayey,,Cayey|Cidra,72035|72041,FALSE,FALSE,America/Puerto_Rico
+738,18.31793,-65.66793,Fajardo,PR,Puerto Rico,TRUE,,28329,369.3,72053,Fajardo,,Fajardo|Ceiba,72053|72037,FALSE,FALSE,America/Puerto_Rico
+739,18.17543,-66.16198,Cidra,PR,Puerto Rico,TRUE,,35801,449.2,72041,Cidra,,Cidra,72041,FALSE,FALSE,America/Puerto_Rico
+740,18.33251,-65.63419,Puerto Real,PR,Puerto Rico,TRUE,,1934,1788.4,72053,Fajardo,,Fajardo,72053,FALSE,FALSE,America/Puerto_Rico
+741,18.16569,-65.75506,Punta Santiago,PR,Puerto Rico,TRUE,,3911,663.3,72069,Humacao,,Humacao,72069,FALSE,FALSE,America/Puerto_Rico
+745,18.3466,-65.81382,Rio Grande,PR,Puerto Rico,TRUE,,49472,314.4,72119,Río Grande,,Río Grande|Canóvanas,72119|72029,FALSE,FALSE,America/Puerto_Rico
+751,18.01205,-66.25871,Salinas,PR,Puerto Rico,TRUE,,20662,131.4,72123,Salinas,,Salinas|Cayey,72123|72035,FALSE,FALSE,America/Puerto_Rico
+754,18.1447,-65.97565,San Lorenzo,PR,Puerto Rico,TRUE,,36309,280.4,72129,San Lorenzo,,San Lorenzo,72129,FALSE,FALSE,America/Puerto_Rico
+757,17.9933,-66.39056,Santa Isabel,PR,Puerto Rico,TRUE,,21474,255.6,72133,Santa Isabel,,Santa Isabel,72133,FALSE,FALSE,America/Puerto_Rico
+765,18.12365,-65.43013,Vieques,PR,Puerto Rico,TRUE,,8402,68.6,72147,Vieques,,Vieques,72147,FALSE,FALSE,America/Puerto_Rico
+766,18.13039,-66.4757,Villalba,PR,Puerto Rico,TRUE,,22187,224.4,72149,Villalba,,Villalba|Orocovis,72149|72107,FALSE,FALSE,America/Puerto_Rico
+767,18.07033,-65.89618,Yabucoa,PR,Puerto Rico,TRUE,,32867,230,72151,Yabucoa,,Yabucoa|Humacao,72151|72069,FALSE,FALSE,America/Puerto_Rico
+769,18.09459,-66.3607,Coamo,PR,Puerto Rico,TRUE,,38500,192.9,72043,Coamo,,Coamo|Santa Isabel,72043|72133,FALSE,FALSE,America/Puerto_Rico
+771,18.18797,-65.86916,Las Piedras,PR,Puerto Rico,TRUE,,36388,418.1,72085,Las Piedras,,Las Piedras|Humacao,72085|72069,FALSE,FALSE,America/Puerto_Rico
+772,18.43048,-65.90377,Loiza,PR,Puerto Rico,TRUE,,18919,447,72087,Loíza,,Loíza,72087,FALSE,FALSE,America/Puerto_Rico
+773,18.34073,-65.72756,Luquillo,PR,Puerto Rico,TRUE,,17924,287.2,72089,Luquillo,,Luquillo,72089,FALSE,FALSE,America/Puerto_Rico
+775,18.31387,-65.28618,Culebra,PR,Puerto Rico,TRUE,,1326,44,72049,Culebra,,Culebra,72049,FALSE,FALSE,America/Puerto_Rico
+777,18.22365,-65.90904,Juncos,PR,Puerto Rico,TRUE,,39580,569.1,72077,Juncos,,Juncos|San Lorenzo|Las Piedras|Canóvanas|Gurabo,72077|72129|72085|72029|72063,FALSE,FALSE,America/Puerto_Rico
+778,18.26319,-65.97938,Gurabo,PR,Puerto Rico,TRUE,,46720,611,72063,Gurabo,,Gurabo|San Lorenzo,72063|72129,FALSE,FALSE,America/Puerto_Rico
+780,18.09998,-66.57032,Coto Laurel,PR,Puerto Rico,TRUE,,10887,219.7,72113,Ponce,,Ponce|Juana Díaz,72113|72075,FALSE,FALSE,America/Puerto_Rico
+782,18.22501,-66.22452,Comerio,PR,Puerto Rico,TRUE,,17310,238.9,72045,Comerío,,Comerío|Barranquitas,72045|72019,FALSE,FALSE,America/Puerto_Rico
+783,18.30348,-66.32851,Corozal,PR,Puerto Rico,TRUE,,32372,296.8,72047,Corozal,,Corozal|Barranquitas,72047|72019,FALSE,FALSE,America/Puerto_Rico
+784,18.00558,-66.13651,Guayama,PR,Puerto Rico,TRUE,,38894,225,72057,Guayama,,Guayama|Cayey|Patillas,72057|72035|72109,FALSE,FALSE,America/Puerto_Rico
+786,18.1357,-66.22881,La Plata,PR,Puerto Rico,TRUE,,,,72009,Aibonito,,Aibonito,72009,FALSE,FALSE,America/Puerto_Rico
+791,18.14391,-65.81398,Humacao,PR,Puerto Rico,TRUE,,47675,431.7,72069,Humacao,,Humacao|Las Piedras|Yabucoa,72069|72085|72151,FALSE,FALSE,America/Puerto_Rico
+794,18.19934,-66.31179,Barranquitas,PR,Puerto Rico,TRUE,,28088,316,72019,Barranquitas,,Barranquitas|Coamo,72019|72043,FALSE,FALSE,America/Puerto_Rico
+795,18.05128,-66.49485,Juana Diaz,PR,Puerto Rico,TRUE,,43475,281,72075,Juana Díaz,,Juana Díaz,72075,FALSE,FALSE,America/Puerto_Rico
+802,18.34349,-64.9287,St Thomas,VI,Virgin Islands,TRUE,,,,78030,St. Thomas,,St. Thomas,78030,FALSE,FALSE,America/St_Thomas
+820,17.7388,-64.70695,Christiansted,VI,Virgin Islands,TRUE,,,,78010,St. Croix,,St. Croix,78010,FALSE,FALSE,America/St_Thomas
+830,18.33857,-64.73802,St John,VI,Virgin Islands,TRUE,,,,78020,St. John,,St. John,78020,FALSE,FALSE,America/St_Thomas
+840,17.72649,-64.84717,Frederiksted,VI,Virgin Islands,TRUE,,,,78010,St. Croix,,St. Croix,78010,FALSE,FALSE,America/St_Thomas
+850,17.72763,-64.79122,Kingshill,VI,Virgin Islands,TRUE,,,,78010,St. Croix,,St. Croix,78010,FALSE,FALSE,America/St_Thomas
+851,17.74757,-64.78737,Kingshill,VI,Virgin Islands,TRUE,,,,78010,St. Croix,,St. Croix,78010,FALSE,FALSE,America/St_Thomas
+901,18.46478,-66.10277,San Juan,PR,Puerto Rico,TRUE,,7438,2830.2,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+906,18.46446,-66.09499,San Juan,PR,Puerto Rico,TRUE,,178,21583.6,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+907,18.45287,-66.08381,San Juan,PR,Puerto Rico,TRUE,,15641,2955.8,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+909,18.44131,-66.06866,San Juan,PR,Puerto Rico,TRUE,,4855,2871.2,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+911,18.45133,-66.05636,San Juan,PR,Puerto Rico,TRUE,,7157,5806.9,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+912,18.44503,-66.05995,San Juan,PR,Puerto Rico,TRUE,,5868,6109.4,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+913,18.45024,-66.04275,San Juan,PR,Puerto Rico,TRUE,,7225,8610.5,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+915,18.43673,-66.04576,San Juan,PR,Puerto Rico,TRUE,,24079,6632.4,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+917,18.4208,-66.04989,San Juan,PR,Puerto Rico,TRUE,,17836,5044,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+918,18.42139,-66.06774,San Juan,PR,Puerto Rico,TRUE,,14902,2132.7,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+920,18.41904,-66.09023,San Juan,PR,Puerto Rico,TRUE,,16157,1728.2,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+921,18.39206,-66.0871,San Juan,PR,Puerto Rico,TRUE,,30663,3857.8,72127,San Juan,,San Juan|Guaynabo,72127|72061,FALSE,FALSE,America/Puerto_Rico
+923,18.41146,-66.03715,San Juan,PR,Puerto Rico,TRUE,,23811,4573.9,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+924,18.39987,-66.01344,San Juan,PR,Puerto Rico,TRUE,,46690,3865.8,72127,San Juan,,San Juan|Carolina,72127|72031,FALSE,FALSE,America/Puerto_Rico
+925,18.40028,-66.05058,San Juan,PR,Puerto Rico,TRUE,,6365,5513.7,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+926,18.34691,-66.05434,San Juan,PR,Puerto Rico,TRUE,,89327,1485.8,72127,San Juan,,San Juan|Trujillo Alto|Guaynabo,72127|72139|72061,FALSE,FALSE,America/Puerto_Rico
+927,18.38884,-66.07149,San Juan,PR,Puerto Rico,TRUE,,13490,2149.7,72127,San Juan,,San Juan,72127,FALSE,FALSE,America/Puerto_Rico
+934,18.41372,-66.11998,Fort Buchanan,PR,Puerto Rico,TRUE,,114,31,72061,Guaynabo,,Guaynabo|Bayamón,72061|72021,FALSE,FALSE,America/Puerto_Rico
+949,18.43166,-66.21349,Toa Baja,PR,Puerto Rico,TRUE,,71371,1339,72137,Toa Baja,,Toa Baja|Cataño|Toa Alta,72137|72033|72135,FALSE,FALSE,America/Puerto_Rico
+950,18.46201,-66.23917,Toa Baja,PR,Puerto Rico,TRUE,,0,0,72051,Dorado,,Dorado|Toa Baja,72051|72137,FALSE,FALSE,America/Puerto_Rico
+951,18.43175,-66.25628,Toa Baja,PR,Puerto Rico,TRUE,,0,0,72137,Toa Baja,,Toa Baja,72137,FALSE,FALSE,America/Puerto_Rico
+952,18.42874,-66.18897,Sabana Seca,PR,Puerto Rico,TRUE,,7324,1275.4,72137,Toa Baja,,Toa Baja,72137,FALSE,FALSE,America/Puerto_Rico
+953,18.36319,-66.24764,Toa Alta,PR,Puerto Rico,TRUE,,70997,1027.1,72135,Toa Alta,,Toa Alta|Corozal|Toa Baja,72135|72047|72137,FALSE,FALSE,America/Puerto_Rico
+956,18.32121,-66.17185,Bayamon,PR,Puerto Rico,TRUE,,60554,852.6,72021,Bayamón,,Bayamón|Aguas Buenas|Toa Alta,72021|72007|72135,FALSE,FALSE,America/Puerto_Rico
+957,18.36696,-66.18857,Bayamon,PR,Puerto Rico,TRUE,,37977,3377.8,72021,Bayamón,,Bayamón|Toa Alta,72021|72135,FALSE,FALSE,America/Puerto_Rico
+959,18.3852,-66.15583,Bayamon,PR,Puerto Rico,TRUE,,46116,2922.2,72021,Bayamón,,Bayamón|Guaynabo|Toa Baja|Toa Alta,72021|72061|72137|72135,FALSE,FALSE,America/Puerto_Rico
+960,18.41674,-66.14365,Bayamon,PR,Puerto Rico,TRUE,,1793,493.6,72021,Bayamón,,Bayamón,72021,FALSE,FALSE,America/Puerto_Rico
+961,18.40987,-66.16415,Bayamon,PR,Puerto Rico,TRUE,,28638,2073.3,72021,Bayamón,,Bayamón|Cataño,72021|72033,FALSE,FALSE,America/Puerto_Rico
+962,18.43514,-66.13949,Catano,PR,Puerto Rico,TRUE,,18274,1465,72033,Cataño,,Cataño|Guaynabo|Bayamón|Toa Baja,72033|72061|72021|72137,FALSE,FALSE,America/Puerto_Rico
+965,18.42853,-66.11175,Guaynabo,PR,Puerto Rico,TRUE,,6901,2943.6,72061,Guaynabo,,Guaynabo,72061,FALSE,FALSE,America/Puerto_Rico
+966,18.39784,-66.11394,Guaynabo,PR,Puerto Rico,TRUE,,15139,2319.4,72061,Guaynabo,,Guaynabo|San Juan|Bayamón,72061|72127|72021,FALSE,FALSE,America/Puerto_Rico
+968,18.40609,-66.10123,Guaynabo,PR,Puerto Rico,TRUE,,3603,3051.3,72061,Guaynabo,,Guaynabo|San Juan,72061|72127,FALSE,FALSE,America/Puerto_Rico
+969,18.36696,-66.11,Guaynabo,PR,Puerto Rico,TRUE,,40402,3096.3,72061,Guaynabo,,Guaynabo|San Juan|Bayamón,72061|72127|72021,FALSE,FALSE,America/Puerto_Rico
+971,18.32067,-66.11751,Guaynabo,PR,Puerto Rico,TRUE,,25443,613,72061,Guaynabo,,Guaynabo,72061,FALSE,FALSE,America/Puerto_Rico
+976,18.33903,-65.99286,Trujillo Alto,PR,Puerto Rico,TRUE,,57297,1268.8,72139,Trujillo Alto,,Trujillo Alto|Carolina|San Juan|Gurabo,72139|72031|72127|72063,FALSE,FALSE,America/Puerto_Rico
+979,18.43734,-66.0089,Carolina,PR,Puerto Rico,TRUE,,17022,1690.1,72031,Carolina,,Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+982,18.40961,-65.99143,Carolina,PR,Puerto Rico,TRUE,,13402,3586.8,72031,Carolina,,Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+983,18.41788,-65.98104,Carolina,PR,Puerto Rico,TRUE,,32735,2924.8,72031,Carolina,,Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+985,18.40628,-65.94767,Carolina,PR,Puerto Rico,TRUE,,31388,1312.3,72031,Carolina,,Carolina,72031,FALSE,FALSE,America/Puerto_Rico
+987,18.34115,-65.94257,Carolina,PR,Puerto Rico,TRUE,,52270,778.3,72031,Carolina,,Carolina|Trujillo Alto,72031|72139,FALSE,FALSE,America/Puerto_Rico
+1001,42.06262,-72.62521,Agawam,MA,Massachusetts,TRUE,,16064,549.2,25013,Hampden,,Hampden,25013,FALSE,FALSE,America/New_York
+1002,42.37633,-72.46462,Amherst,MA,Massachusetts,TRUE,,30099,218.2,25015,Hampshire,,Hampshire|Franklin,25015|25011,FALSE,FALSE,America/New_York
+1003,42.39135,-72.52327,Amherst,MA,Massachusetts,TRUE,,11588,5564,25015,Hampshire,,Hampshire,25015,FALSE,FALSE,America/New_York
+1005,42.42117,-72.10655,Barre,MA,Massachusetts,TRUE,,5166,46.2,25027,Worcester,,Worcester,25027,FALSE,FALSE,America/New_York
+1007,42.28163,-72.40009,Belchertown,MA,Massachusetts,TRUE,,15080,106.1,25015,Hampshire,,Hampshire,25015,FALSE,FALSE,America/New_York
+1008,42.18234,-72.95819,Blandford,MA,Massachusetts,TRUE,,1116,7,25013,Hampden,,Hampden|Berkshire,25013|25003,FALSE,FALSE,America/New_York
+1009,42.21133,-72.34189,Bondsville,MA,Massachusetts,TRUE,,649,359.3,25013,Hampden,,Hampden|Hampshire,25013|25015,FALSE,FALSE,America/New_York
+1010,42.12904,-72.20597,Brimfield,MA,Massachusetts,TRUE,,3663,40.1,25013,Hampden,,Hampden|Worcester,25013|25027,FALSE,FALSE,America/New_York
+1011,42.30233,-72.96448,Chester,MA,Massachusetts,TRUE,,1486,17.5,25013,Hampden,,Hampden|Hampshire,25013|25015,FALSE,FALSE,America/New_York
+1012,42.38495,-72.84675,Chesterfield,MA,Massachusetts,TRUE,,595,19,25015,Hampshire,,Hampshire,25015,FALSE,FALSE,America/New_York
+1013,42.16059,-72.60788,Chicopee,MA,Massachusetts,TRUE,,22739,1551.2,25013,Hampden,,Hampden,25013,FALSE,FALSE,America/New_York
+1020,42.17618,-72.56538,Chicopee,MA,Massachusetts,TRUE,,30249,937.3,25013,Hampden,,Hampden,25013,FALSE,FALSE,America/New_York
